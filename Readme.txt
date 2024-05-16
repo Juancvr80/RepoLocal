@@ -4,3 +4,4 @@ prueba de tipos de merge 20240516 1041
 prueba de squash merge 20240516 1046
 otro squash merge 20230516 1051
 prueba de squash merge 20240516 1046
+prueba rebase merge 20240516 1105
